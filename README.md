@@ -5,3 +5,7 @@ Ollama BGE-m3 简易本地知识库
 使用本地知识库相对隐私一些。
 
 暴力简单，精度一般。
+
+![1](https://github.com/user-attachments/assets/f32be982-6cac-412e-bda1-10b499e900c2)
+
+![无标题](https://github.com/user-attachments/assets/c4eac71c-2c49-413e-926f-afc2fcd2bb1a)
